@@ -1,0 +1,36 @@
+questions:
+    - 
+        question: Which Apollo mission landed the first humans on the Moon?
+        wrong_answers: 
+            - Apollo 7
+            - Apollo 9
+            - Apollo 13
+        answer: Apollo 11
+    - 
+        question: What is the International Air Transport Association airport code for Heathrow Airport?
+        wrong_answers: 
+            - HRW
+            - HTR
+            - LHW
+        answer: LHR
+    - 
+        question: The reactor at the site of the Chernobyl nuclear disaster is now in which country?
+        wrong_answers: 
+            - Slovakia
+            - Hungary
+            - Russia
+        answer: Ukraine 
+    - 
+        question: Which volcano is best known for its eruption in AD 79 that led to the destruction of the Roman cities of Pompeii and Herculaneum?
+        wrong_answers: 
+            - Mount Etna
+            - Mount Stromboli
+            - Mount Vulture
+        answer: Mount Vesuvius
+    - 
+        question: Oceans hold what percentage of the Earth's surface water?
+        wrong_answers: 
+            - 67 percent
+            - 77 percent
+            - 87 percent
+        answer: 97 percent
